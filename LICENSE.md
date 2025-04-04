@@ -13,9 +13,9 @@ It’s a fusion of tested frameworks, clean documentation structures, and strate
 ---
 ## 🧩 What's Included?
 
--  Strategic models like SWOT, BSC, PESTLE, OKR, KPI, RACI, STAR, DMAIC, and more  
--  Visual and interactive templates in Markdown for **Obsidian** and **VS Code**  
-
+Strategic models like SWOT, BSC, PESTLE, OKR, KPI, RACI, STAR, DMAIC, and more.
+Visual and interactive templates in Markdown for **Obsidian** and **VS Code**  
+  
 
 - 🧠 01 Strategic Management and Analysis Tools  
 - 📝 02 Project Planning Guide

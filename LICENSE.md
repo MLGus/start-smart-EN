@@ -37,8 +37,7 @@ This project is **free to use for educational, consulting, and internal business
 📌 **You must include**:
 
 - Original repository:  
-  [https://github.com/gustaless/template-gestao](https://github.com/gustaless/template-gestao)
-
+  [https://github.com/MLGus/start-smart-EN/](https://github.com/MLGus/start-smart-EN/)
 - Author’s profile:  
   [https://www.linkedin.com/in/gustavo-jorge-alessandri/?locale=en_US](https://www.linkedin.com/in/gustavo-jorge-alessandri/?locale=en_US)
 

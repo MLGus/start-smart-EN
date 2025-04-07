@@ -8,24 +8,6 @@
 
 ---
 
-## 🧭 Table of Contents
-
-- [Introduction](#introduction)
-- [WHAT will we do? (Scope)](#-what-will-we-do-scope-definition)
-- [HOW will we do it? (Agile Framework)](#️-how-will-we-do-it-agile-structure--framework)
-- [WHEN will we do it? (Schedule)](#-when-will-we-do-it-schedule-and-cadence)
-- [WHO will do it? (Roles)](#-who-will-do-it-roles-and-responsibilities)
-- [WHO else is involved? (Stakeholders)](#-who-else-is-involved-stakeholders)
-- [WITH what? (Suppliers and Resources)](#-with-what-suppliers--resources)
-- [Quality Metrics and Integration](#️-how-will-we-know-it-worked-quality--integration-metrics)
-- [HOW MUCH will it cost? (Budget)](#-how-much-will-it-cost-budget--roi)
-- [HOW will we communicate?](#-how-will-we-communicate-transparency--collaboration)
-- [Risks & Mitigation](#-risks--mitigation-strategies-star-model)
-- [Continuous Improvement](#-continuous-improvement-agile-retrospectives)
-- [Project Closure](#-project-closure-lessons-learned)
-
----
-
 ## 📌 **Introduction**
 
 This guide provides a structured template for project planning and execution using **Agile**, **SAFe**, and the **STAR** method (Situation, Task, Action, Result).
